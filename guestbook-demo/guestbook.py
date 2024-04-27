@@ -28,3 +28,4 @@ if len(sys.argv) > 1:
                 deleted_note = notes.pop(index-1)
                 print(f"Note {index} '{deleted_note}' deleted.")
 
+
